@@ -21,6 +21,7 @@ Official website of The American Statistical Association, the world's largest co
 **_statistics related articles_** <br />
 Population vs Sample Data by Math Bits Notebook :  https://mathbitsnotebook.com/Algebra1/StatisticsData/STPopSample.html#:~:text=%22population%22%20data%20sets%20and%20%22,list%20of%20possible%20data%20values).&text=A%20sample%20data%20set%20contains,from%20which%20it%20is%20taken. <br />
 What’s the difference between qualitative and quantitative research? by SnapSurvey : https://www.snapsurveys.com/blog/qualitative-vs-quantitative-research/ <br />
+What is the difference between ordinal, interval and ratio variables? Why should I care? by GraphPad : https://www.graphpad.com/support/faq/what-is-the-difference-between-ordinal-interval-and-ratio-variables-why-should-i-care/ <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
