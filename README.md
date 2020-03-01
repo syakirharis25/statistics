@@ -27,6 +27,7 @@ NOMINAL, ORDINAL, INTERVAL, RATIO SCALES WITH EXAMPLES by QuestionPro : https://
 Sampling error and non-sampling error by Creative Maths : https://creativemaths.net/blog/sampling-and-non-sampling-error/#:~:text=Non%2Dsampling%20error%3A,in%20polls%2C%20surveys%20or%20samples.&text=Examples%20of%20non%2Dsampling%20errors,using%20names%20to%20describe%20them. <br />
 Simulation Statistics Explained by John Clark : https://magoosh.com/statistics/simulation-statistics-explained/ <br />
 Simple Random Samples by The University of Texas at Austin : https://web.ma.utexas.edu/users/mks/statmistakes/SRS.html#:~:text=%22A%20simple%20random%20sample%20(SRS,the%20study%20is%20focusing%20on. <br />
+Blinding vs. Double Blind in Statistics: Simple Definition, Examples by Statistics How To : https://www.statisticshowto.datasciencecentral.com/what-is-blinding-in-statistics/ <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
