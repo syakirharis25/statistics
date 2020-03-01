@@ -18,6 +18,9 @@ The earliest writings on probability and statistics date back to Arab mathematic
 ## 2. Official references websites. 
 Official website of The American Statistical Association, the world's largest community of statisticians : https://www.amstat.org <br />
 
+**_statistics related articles_** <br />
+Population vs Sample Data by Math Bits Notebook :  https://mathbitsnotebook.com/Algebra1/StatisticsData/STPopSample.html#:~:text=%22population%22%20data%20sets%20and%20%22,list%20of%20possible%20data%20values).&text=A%20sample%20data%20set%20contains,from%20which%20it%20is%20taken. <br />
+
 <a name="github"></a>
 ## 3. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
