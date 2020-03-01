@@ -29,6 +29,8 @@ Simulation Statistics Explained by John Clark : https://magoosh.com/statistics/s
 Simple Random Samples by The University of Texas at Austin : https://web.ma.utexas.edu/users/mks/statmistakes/SRS.html#:~:text=%22A%20simple%20random%20sample%20(SRS,the%20study%20is%20focusing%20on. <br />
 Blinding vs. Double Blind in Statistics: Simple Definition, Examples by Statistics How To : https://www.statisticshowto.datasciencecentral.com/what-is-blinding-in-statistics/ <br />
 What is a distribution in statistics? by DataScience : https://365datascience.com/explainer-video/distribution-in-statistics/ <br />
+Time Series by BestMaths : http://bestmaths.net/online/index.php/year-levels/year-11/year-11-topics/time-series/#:~:text=A%20time%20series%20graph%20is,to%20show%20trends%20or%20patterns.<br />
+What is a Stemplot by Statistics How To : https://www.statisticshowto.datasciencecentral.com/stemplot/#:~:text=A%20stem%20and%20leaf%20plot,leaves%20(the%20smallest%20digits).&text=While%20a%20histogram%20uses%20bars,a%20large%20amount%20of%20data. <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
