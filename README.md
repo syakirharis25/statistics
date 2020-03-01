@@ -26,6 +26,7 @@ What is the difference between ordinal, interval and ratio variables? Why should
 NOMINAL, ORDINAL, INTERVAL, RATIO SCALES WITH EXAMPLES by QuestionPro : https://www.questionpro.com/blog/nominal-ordinal-interval-ratio/#:~:text=Nominal%20scale%20is%20a%20naming,each%20of%20its%20variable%20options. <br />
 Sampling error and non-sampling error by Creative Maths : https://creativemaths.net/blog/sampling-and-non-sampling-error/#:~:text=Non%2Dsampling%20error%3A,in%20polls%2C%20surveys%20or%20samples.&text=Examples%20of%20non%2Dsampling%20errors,using%20names%20to%20describe%20them. <br />
 Simulation Statistics Explained by John Clark : https://magoosh.com/statistics/simulation-statistics-explained/ <br />
+Simple Random Samples by The University of Texas at Austin : https://web.ma.utexas.edu/users/mks/statmistakes/SRS.html#:~:text=%22A%20simple%20random%20sample%20(SRS,the%20study%20is%20focusing%20on. <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
