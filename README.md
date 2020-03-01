@@ -23,6 +23,7 @@ Population vs Sample Data by Math Bits Notebook :  https://mathbitsnotebook.com/
 What’s the difference between qualitative and quantitative research? by SnapSurvey : https://www.snapsurveys.com/blog/qualitative-vs-quantitative-research/ <br />
 What is the difference between ordinal, interval and ratio variables? Why should I care? by GraphPad : https://www.graphpad.com/support/faq/what-is-the-difference-between-ordinal-interval-and-ratio-variables-why-should-i-care/ <br />
 NOMINAL, ORDINAL, INTERVAL, RATIO SCALES WITH EXAMPLES by QuestionPro : https://www.questionpro.com/blog/nominal-ordinal-interval-ratio/#:~:text=Nominal%20scale%20is%20a%20naming,each%20of%20its%20variable%20options. <br />
+Sampling error and non-sampling error by Creative Maths : https://creativemaths.net/blog/sampling-and-non-sampling-error/#:~:text=Non%2Dsampling%20error%3A,in%20polls%2C%20surveys%20or%20samples.&text=Examples%20of%20non%2Dsampling%20errors,using%20names%20to%20describe%20them. <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
