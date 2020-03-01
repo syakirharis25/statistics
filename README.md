@@ -31,6 +31,7 @@ Blinding vs. Double Blind in Statistics: Simple Definition, Examples by Statisti
 What is a distribution in statistics? by DataScience : https://365datascience.com/explainer-video/distribution-in-statistics/ <br />
 Time Series by BestMaths : http://bestmaths.net/online/index.php/year-levels/year-11/year-11-topics/time-series/#:~:text=A%20time%20series%20graph%20is,to%20show%20trends%20or%20patterns.<br />
 What is a Stemplot by Statistics How To : https://www.statisticshowto.datasciencecentral.com/stemplot/#:~:text=A%20stem%20and%20leaf%20plot,leaves%20(the%20smallest%20digits).&text=While%20a%20histogram%20uses%20bars,a%20large%20amount%20of%20data. <br />
+What Is Quantitative Data? by ThoughtCo. : https://www.thoughtco.com/definition-of-quantitative-data-3126331#:~:text=In%20statistics%2C%20quantitative%20data%20is,quantitative%20data%20arises%20in%20statistics. <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
