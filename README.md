@@ -34,6 +34,7 @@ What is a Stemplot by Statistics How To : https://www.statisticshowto.datascienc
 What Is Quantitative Data? by ThoughtCo. : https://www.thoughtco.com/definition-of-quantitative-data-3126331#:~:text=In%20statistics%2C%20quantitative%20data%20is,quantitative%20data%20arises%20in%20statistics. <br />
 Standard Deviation vs. Variance: What's the Difference? by Investopedia : https://www.investopedia.com/ask/answers/021215/what-difference-between-standard-deviation-and-variance.asp#:~:text=The%20variance%20is%20the%20average%20of%20the%20squared%20differences%20from%20the%20mean.&text=Standard%20deviation%20is%20the%20square,measurement%20as%20the%20original%20data. <br />
 What is Linear Regression? by Statistics Solutions : https://www.statisticssolutions.com/what-is-linear-regression/ <br />
+Coefficient of Determination by Investopedia : https://www.investopedia.com/terms/c/coefficient-of-determination.asp <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
