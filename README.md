@@ -36,6 +36,7 @@ Standard Deviation vs. Variance: What's the Difference? by Investopedia : https:
 What is Linear Regression? by Statistics Solutions : https://www.statisticssolutions.com/what-is-linear-regression/ <br />
 Coefficient of Determination by Investopedia : https://www.investopedia.com/terms/c/coefficient-of-determination.asp <br />
 Z-Score: Definition, Formula and Calculation by Statistics How To : https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/z-score/ <br />
+How to Calculate X-bar by Sciencing : https://sciencing.com/calculate-xbar-8382419.html <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
