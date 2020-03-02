@@ -35,6 +35,7 @@ What Is Quantitative Data? by ThoughtCo. : https://www.thoughtco.com/definition-
 Standard Deviation vs. Variance: What's the Difference? by Investopedia : https://www.investopedia.com/ask/answers/021215/what-difference-between-standard-deviation-and-variance.asp#:~:text=The%20variance%20is%20the%20average%20of%20the%20squared%20differences%20from%20the%20mean.&text=Standard%20deviation%20is%20the%20square,measurement%20as%20the%20original%20data. <br />
 What is Linear Regression? by Statistics Solutions : https://www.statisticssolutions.com/what-is-linear-regression/ <br />
 Coefficient of Determination by Investopedia : https://www.investopedia.com/terms/c/coefficient-of-determination.asp <br />
+Z-Score: Definition, Formula and Calculation by Statistics How To : https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/z-score/ <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
