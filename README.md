@@ -38,6 +38,7 @@ Coefficient of Determination by Investopedia : https://www.investopedia.com/term
 Z-Score: Definition, Formula and Calculation by Statistics How To : https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/z-score/ <br />
 How to Calculate X-bar by Sciencing : https://sciencing.com/calculate-xbar-8382419.html <br />
 Frequency Distribution by MATH iS FUN : https://www.mathsisfun.com/data/frequency-distribution.html <br />
+What is the standard error? by Statistics How To : https://www.statisticshowto.datasciencecentral.com/what-is-the-standard-error-of-a-sample/ <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
